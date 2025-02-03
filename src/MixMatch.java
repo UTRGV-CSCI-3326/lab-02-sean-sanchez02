@@ -1,5 +1,5 @@
 public class MixMatch {
-    public static void main(String[] arg) {
+    public static void main(String[] args) {
         int number = 7;
         String name = "size";
         char grade = 'A';
